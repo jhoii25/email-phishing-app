@@ -26,7 +26,7 @@ def main():
             else:
                 st.success(f"✅ Legitimate Email (Confidence: {probability[0]*100:.2f}%)")
     st.write("Made with ❤️ by [Ike-uchendu joy chidera]")
-    st.write("Source code: [GitHub](https://github.com/email-security-app/email-security-app)")
+    st.write("Source code: [GitHub](https://github.com/email-phishing-app/CJ_email_detector_app)")
 
     # Run the app
 if __name__ == "__main__":
